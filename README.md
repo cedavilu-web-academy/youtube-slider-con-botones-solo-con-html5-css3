@@ -1,4 +1,4 @@
-<h1>Carpeta base con las imágenes para la construcción de un slider infinito.</h1>
+<h1>Código para la construcción de un slider controlado por botones</h1>
 <h2>Creado solo con HTML5 y CSS3</h2>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
@@ -7,7 +7,7 @@
   <li>Abrir en Visual Studio Code la carpeta del proyecto</li>
 </ol>
 
-Listo ya tienes la cvarpeta con las imágenes para que puedas seguirme en el video.
+Listo ya tienes todo el código para que puedas seguirme en el video y sobre todo poder efectuar tus propios ajustes, de valores y coordenadas.
 <h2 style="text-align:center">Si quieres ir desde 0 a 100 en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
 <table>
   <tr>
